@@ -16,7 +16,7 @@ WinLayout is a small Windows app that sits in your system tray and puts every wi
 - Optional **Lock**: a window snaps straight back if it gets moved.
 - Capture one window, or all open windows at once, and apply your rules whenever you like.
 - Match windows by application and by part of the title (plain text or a regular expression), and reorder rules to set priority.
-- Light and dark themes, optional keyboard shortcuts, and an option to start with Windows.
+- Light, dark, or the same as Windows (your choice in App Settings), optional keyboard shortcuts, and an option to start with Windows.
 - Tells you when a newer version is out (you can switch this off). It never installs anything by itself.
 
 ## User guide
@@ -32,7 +32,7 @@ The full guide is a PDF: **[WinLayout user guide](WinLayout-User-Guide.pdf)**. I
 
 ## Privacy
 
-Everything runs on your PC, and WinLayout doesn't collect any data about you. Its only network use is a quick check on GitHub for a newer version, when it starts and then every few hours. That request carries nothing about you or your PC, and you can switch it off in App Settings. Links in the About box, such as Ko-fi, open in your browser only when you click them. Your rules and settings are stored in `%AppData%\WinLayout`.
+Everything runs on your PC, and WinLayout doesn't collect any data about you. Its only network use is a quick check on GitHub for a newer version, when it starts and then every few hours. That request carries nothing about you or your PC, and you can switch it off in App Settings. Links in the About box, such as Ko-fi, and its **Report a problem** and **Request a feature** buttons (which open a short web form, with your WinLayout version in the address) open in your browser only when you click them, and nothing is sent unless you submit a form. Your rules and settings are stored in `%AppData%\WinLayout`.
 
 ## Windows and antivirus warnings
 
@@ -53,7 +53,7 @@ Use **Settings, Apps** in Windows, or **App Settings, Uninstall WinLayout** insi
 
 ## Questions and problems
 
-Found a bug, or have a question or an idea? [Open an issue](../../issues). Please say what you were doing, and include your WinLayout version (shown in the About box).
+Found a bug, or have a question or an idea? In WinLayout, open **About** and click **Report a problem** or **Request a feature**. Each opens a short form in your web browser, with your WinLayout version already filled in. Please say what you were doing. You can also [open an issue](../../issues) here.
 
 ## Support
 
