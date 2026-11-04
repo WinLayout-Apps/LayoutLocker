@@ -1,4 +1,4 @@
-[# Layout Locker
+# Layout Locker
 
 **Remembers where you want your windows and keeps them there.**
 
@@ -6,7 +6,7 @@ Layout Locker (formerly WinLayout) is a small Windows app that sits in your syst
 
 **[Download the latest version](../../releases/latest)** (Windows 10 or 11, 64-bit. No .NET install needed.)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C3M629R9XJ)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/WinLayout)
 
 ## What it does
 
@@ -53,13 +53,12 @@ Use **Settings, Apps** in Windows, or **App Settings, Uninstall Layout Locker** 
 
 ## Questions and problems
 
-Found a bug, or have a question or an idea? In Layout Locker, open **About** and click **Report a problem** or **Request a feature**. Each opens a short form in your web browser, with your Layout Locker version already filled in. Please say what you were doing. You can also [open an issue](../../issues) here.
+Found a bug, or have a question or an idea? In Layout Locker, open **About** and click **Report a problem** or **Request a feature**. Each opens a short form in your web browser, with your Layout Locker version already filled in. Please say what you were doing. If you're having problems downloading or installing the app please use this [contact form](https://tally.so/r/VpG2Vl?software_name_version=Layout%20Locker).
 
 ## Support
 
-Layout Locker is made in my spare time. If it's useful to you, you can support it on [Ko-fi](https://ko-fi.com/C3M629R9XJ). The money goes towards a code-signing certificate, so Windows stops showing the unknown-publisher warning.
+Layout Locker is made in my spare time. If it's useful to you, you can support it on [Ko-fi](https://ko-fi.com/WinLayout). The money goes towards a code-signing certificate, so Windows stops showing the unknown-publisher warning.
 
 ## Licence
 
 Copyright (c) 2026 Martin Lewis. Layout Locker is free to use. It is provided as is, without warranty of any kind.
-](https://tally.so/r/VpG2Vl)
