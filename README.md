@@ -1,4 +1,4 @@
-# Layout Locker
+[# Layout Locker
 
 **Remembers where you want your windows and keeps them there.**
 
@@ -62,3 +62,4 @@ Layout Locker is made in my spare time. If it's useful to you, you can support i
 ## Licence
 
 Copyright (c) 2026 Martin Lewis. Layout Locker is free to use. It is provided as is, without warranty of any kind.
+](https://tally.so/r/VpG2Vl)
